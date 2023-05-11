@@ -4,4 +4,7 @@
 
 // let y: unknown = 4;
 // console.log(y.length);//error
-// console.log((y as string).length);
+// // console.log((y as string).length);
+
+// // let x: unknown = 'hello';
+// // console.log((<string>x).length);

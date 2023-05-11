@@ -1,14 +1,14 @@
-// simple object
+// // simple object
 
 // let student = {
 //     name: "Mr. X",
-//     age: 22,
+//     age: "yy",
 //     isActive: true,
 //     extraProperty: true, //no-error
 // }
 
 
-// typescript object
+// // typescript object
 
 // let student2: {
 //     name: string,
@@ -16,22 +16,22 @@
 //     isActive: boolean,
 // } = {
 //     name: "Mr. X",
-//     age: '22',//error
+//     // age: '22',//error
 //     age: 22,
 //     isActive: true,
-//     extraProperty: boolean //error
+//     // extraProperty: boolean //error
 // }
 
 
 
 
-//optionar perameters
+// //optionar perameters
 
 // let student3: {
 //     name: string,
 //     age: number,
 //     isActive: boolean,
-//     // extraProperty?:boolean
+//     extraProperty?: boolean
 // } = {
 //     name: "Mr. X",
 //     age: 22,

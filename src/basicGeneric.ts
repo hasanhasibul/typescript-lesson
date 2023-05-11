@@ -1,14 +1,13 @@
 
-// normal way
+// // normal way
 
-// function createPair(v1: number, v2: string): [number, string] {
-//     return [v1, v2];
-// }
+// // function createPair(v1: number, v2: string): [number, string] {
+// //     return [v1, v2];
+// // }
 
-// const example1 = createPair('hello', 42) // error
-// const example2 = createPair(42, 42) // error
 
-// const example3 = createPair(42, "test") // no error
+// // const example2 = createPair(42, 42) // error
+// // const example3 = createPair(42, "test") // no error
 
 
 

@@ -1,9 +1,10 @@
-// enum directionsGroup {
-//     North,
-//     East,
-//     South,
-//     West
-// }
+// // enum directionsGroup {
+// //     North,
+// //     East,
+// //     South,
+// //     West
+// // }
+
 // enum directionsGroup {
 //     North = 'North',
 //     East = "East",
@@ -11,5 +12,8 @@
 //     West = "West"
 // }
 
-// let directions = directionsGroup.East
-// directions = 'North'; //Error
+// let directions: directionsGroup
+
+// directions = directionsGroup.East
+
+// // directions = 'North'; //Error

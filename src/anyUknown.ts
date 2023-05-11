@@ -21,3 +21,11 @@ const sample2 = (sample: unknown) => {
         sample() //unknown force as to check type
     }
 }
+
+
+// // special type
+
+// let special:never ;
+// special = "ee"
+// special = 2
+// special = 4
